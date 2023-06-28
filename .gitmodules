@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "trapezoid"]
 	path = trapezoid
 	url = https://github.com/jthetzel/trapezoid
-	shallow = true
-	registered = true
